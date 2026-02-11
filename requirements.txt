@@ -1,8 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
 torch
 torchvision
-matplotlib
-pandas
-seaborn
-scikit-learn
-numpy
 tensorflow
+keras
+fastapi
+uvicorn

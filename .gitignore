@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+# Data
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.db
+*.sqlite3
+Dataset/
+
+# Models
+*.pkl
+*.pt
+models/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.bak
+*.swp
+*.tmp
