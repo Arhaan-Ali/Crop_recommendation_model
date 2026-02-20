@@ -1,0 +1,20 @@
+{
+  "name": "Create new Farm",
+  "request": {
+    "type": "http",
+    "url": "http://localhost:3000/api/v1/farm",
+    "scripts": {
+      "preRequest": "",
+      "postResponse": ""
+    },
+    "method": "POST",
+    "queryParams": [],
+    "headers": [],
+    "body": "{\n  \"name\": \"private farm\",\n  \"location\": \"india\",\n  \"size\":\"32\",\n  \"ownerId\": \"3466436545643556\"\n}",
+    "contentType": "application/json",
+    "auth": {
+      "currentAuthType": "INHERIT",
+      "authConfigStore": {}
+    }
+  }
+}

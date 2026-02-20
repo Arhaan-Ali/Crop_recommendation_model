@@ -1,0 +1,20 @@
+{
+  "name": "Create new User",
+  "request": {
+    "type": "http",
+    "url": "http://localhost:3000",
+    "scripts": {
+      "preRequest": "",
+      "postResponse": ""
+    },
+    "method": "GET",
+    "queryParams": [],
+    "headers": [],
+    "body": "",
+    "contentType": "text/plain",
+    "auth": {
+      "currentAuthType": "INHERIT",
+      "authConfigStore": {}
+    }
+  }
+}

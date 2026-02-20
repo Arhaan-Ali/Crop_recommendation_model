@@ -1,5 +1,5 @@
 {
-  "name": "Untitled request",
+  "name": "Get User",
   "request": {
     "type": "http",
     "url": "https://app.requestly.io/echo",
